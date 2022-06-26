@@ -1,0 +1,1 @@
+After I have made this project, I've learned how to implement images and lists and anchor tags in my website and how to structure it correctly.
